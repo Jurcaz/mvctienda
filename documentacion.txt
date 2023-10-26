@@ -1,0 +1,6 @@
+dataView requiere como minimo:
+title - titulo de la pagina
+menu - si muestra el menu
+admin - si un admin esta logeado
+errors - el array de errores tenga o no
+dataform - el array de memoria del formulario tenga o no
